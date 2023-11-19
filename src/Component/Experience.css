@@ -1,0 +1,16 @@
+.Experience .heading{
+    padding: 5px;
+    width: 150px;
+    background-color: rgb(41, 40, 40);
+    color: white;
+    text-align: center;
+}
+.Experience .exp{
+    width: 400px;
+}
+.Experience{
+    margin-bottom: 50px;
+}
+.Experience p{
+    margin-top: 10px;
+}

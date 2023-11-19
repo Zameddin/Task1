@@ -1,0 +1,13 @@
+.education .heading{
+    padding: 5px;
+    width: 150px;
+    background-color: rgb(41, 40, 40);
+    color: white;
+    text-align: center;
+}
+.education{
+    width: 269.58px;
+}
+.education .info{
+    margin-top: 10px;
+}

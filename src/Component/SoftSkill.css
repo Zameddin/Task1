@@ -1,0 +1,15 @@
+.soft .heading{
+    padding: 5px;
+    width: 150px;
+    background-color: rgb(41, 40, 40);
+    color: white;
+    text-align: center;
+}
+.soft{
+    width: 400px;
+}
+.soft ul li{
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}

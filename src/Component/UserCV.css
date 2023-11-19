@@ -1,0 +1,11 @@
+.UserCV{
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    background-color: white;
+}
+.UserCV .container{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
